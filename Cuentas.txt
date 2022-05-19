@@ -1,0 +1,32 @@
+////////-Autores-////////
+==========================
+Gre
+Autor@Mail.com
+Autor
+==========================
+Gregorio Casas Grandes
+Greg@Mail.com
+Greg
+==========================
+Ava Maria
+Ava@Mail.com
+Ava
+==========================
+Phillip Bezot
+Phillip@Mail.com
+Phillip
+==========================
+Jackeline Ryders
+Jacky@Mail.com
+Jacky
+==========================
+/////////-Clientes-////////
+===========================
+Lara Bellagio
+Cliente@Mail.com
+Cliente
+===========================
+Juan Gomez
+JuanG@Mail.com 
+Juan
+===========================	
